@@ -1144,22 +1144,3 @@ setTimeout(function(){},3000);
  发现新大陆：callback&&callback()   有callback才执行对应的函数callback（）
 
 ### 轮播图练习
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
